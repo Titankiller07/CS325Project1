@@ -12,4 +12,4 @@ def my_decorator(func):
 def greet(name):
     print("Hello," + name + "!")
 
-greet("Connor")
+greet("Dom")
