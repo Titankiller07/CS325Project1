@@ -1,5 +1,4 @@
-CS 325
-CD OneDrive
-CD Doucuments
-CD Java
-CD Cs325
+# CS325Project1
+Download Ollama
+Ollama pull phi3
+pip install ollama
