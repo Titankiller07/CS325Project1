@@ -1,0 +1,86 @@
+Great overall chip for a good price. I upgraded from a R5 3600 after a PSU failure and got this on sale ($200 at the time). Works well as both my gaming and software dev rig.
+
+Pros:
++ Performance uplift of Zen 4 is noticeable in single core and multi-core workloads
++ Good price point for 6 cores
++ Little guy loves to boost
++ PCI-e Gen 5
++ Doesn't run as hot as the other AM5 chips
++ Very stable with EXPO'd RAM at 6000MHz
++ No X3D cache, so no scheduling issues.
++ Good efficiency.
++ Stays cool during idle
++ iGPU. Not really needed when you have a dedicated one, but its pretty performant.
+
+Cons:
+- While AM5 increases the amount of PCI-e lanes, I still find it to be a limiting factor for anything containing more than 1 GPU... my own personal gripe I guess...
+- Likes to run hot. Anytime a sustained workload gets placed on it, it will keep boosting until it reaches TJMax. Not a problem if you have a good cooler (ps. thermalright has some cheap ones that can handle the power).
+- Want EXPO speeds above 6000 MHz? Too bad.
+- AM5 motherboards will run you a pretty penny. Different socket than AM4. However, AMD claims they will support it for a while, so maybe its worth it.
+great gaming chip, 6 cores and 12 threads is plenty for me. could drive a 3090 or 6900 xt if i were to pair it with either card. if you can get it for less than $200 (at time of writing) the value is excellent.
+Not at all as bad as tech YouTubers try to make it out to be. This is a solid 6 core 12 thread gaming workhorse and it doesn't try to be anything else.
+
+I ultimately didn't keep my 7600x although all I do is game on my machines. Through a long set of troubleshooting brand new hardware making up an entire system... I didn't find out until I finally replaced the motherboard that that's where the problem lied.
+
+At time of writing, there is now the 7600 non-X CPU out there (I got my 7600x for the MSRP of non-X anyway) that may be an easier pill to swallow, being it includes a cooler. But this CPU does exactly what it's intended to do. It pushed frames to my 7900 XTX just fine!
+Great chip for a good price. I got mine when i caught it on sale for $199 plus tax. It plays my games really well, for a mid tier gaming rig. I play mostly 1440p in ultra settings.
+I only game at the miment so for me, this chip does more than enogh. Its fast and it’s paired with a beautiful 4090 Founders Edition.
+Nice CPU for beginning.
+Powerful, low TDP.
+I will recommend it for peoples, who want to build cheap PC, but get a enough power.
+But, for me it’s not enough, cause I need more options in multitasking way
+It does what it’s intended to do, obviously if you’re buying this you’ve done your research and know what you’re looking at. 10/10 would recommend. This thing is fast.
+Excellent processor with no major flaws or issues with great performance.
+Works well. Use never goes over 20%. Always stays  cool.
+A bit overpriced but its all I need exelente performance for the power consumption.
+Coming from a core i7 7700k, this cpu is much faster. Very easy to install as well. I put this cpu on eco mode and it's still fast. Runs hot so have a good cpu cooler with it. I'm using a phantom spirit 120 se and it gets pretty good results.
+I was at the right place at the right time, I picked my 7600x up in a combo kit for $134/ $289 all in with Gigabyte B650 Aorus Elite AX board and Starfield key! 
+
+Thanks Best Buy! Your free shipping was very quick (2 Days)
+
+I just used my old 3700x AMD RGB cooler that came with it stock and it works fine for me, paired with GSKill Trident Z5 Neo RGB DDR 5 6000Mhz CL 30 memory.
+
+I really only game with the system and that cooler with Corsair 50XTM tim keeps me around 75c and I am still getting my 5450Mhz boost. it does not run at 105watt gaming with that cooler., seems to limit itself to 65watt package without me doing anything and it knows the plan.!
+Upgraded my computer with a new Gigabyte motherboard that needed an AM5 desktop cpu... Being a loooong time Gigabyte devote and AMD lover... the Ryzen processor was as not brainer... Got it all put back together, hit the start button and BAM... just the speed the system booted up was amazing... everything worked at seemingly super speed... the processor only modoestly heated up until system was all installed and working flawlessly... then cooled down in seconds.... My long time affair with AMD is still in effect!!!!
+The 7600X is honestly incredible. In my experience this thing is able to run games at Ultra settings with no problem. (when paired with a 4070 or something equivalent.) 
+
+Temperature-wise, this thing runs hot! So pair it with a good tower cooler, or get an AIO.
+
+If you want to know if this CPU is easy to install, it is EXTREMELY easy, expect the same install process as any LGA CPU.
+It handles gaming and productivity tasks just fine. Sure maybe it isn’t the highest core count or highest rated speed. However you can run it with an affordable air cooler and not sacrifice performance. It also runs far lower wattage than most intel chips under real world usage. AM5 is also going to be around for years so you’ll be able to upgrade from this without buying another motherboard.
+When it was time for a new budget gaming PC build, I was torn between going Intel like I normally did in the past or finally jumping over to Team Red and giving AMD another shot after a lot of years of being away. 
+
+The Ryzen 5 7600x can easily be found in the $200ish price range and this thing is a monster for the price. It may only have 6 cores and 12 threads but if you are looking for a purely gaming PC with some light video editing etc, this thing performs great. The cores are super fast at stock clocks and there is quite a bit of room to go with some proper cooling and overclocking.
+
+I was looking for a strictly gaming PC with this as I do have a workstation PC and did not need to go overkill for the CPU. This is paired with 32GB of 6000MHz DDR5 ram and I have been pleasantly surprised with this when editing videos and photos and find myself doing more tasks on my gaming PC instead of transferring to the workstation. 
+
+Core count is not as necessary currently for PC gaming but core clock speeds are and this thing won't let you down for gaming. Also, don't worry about bottlenecks and pair this with any GPU you want, you won't be disappointed for the price and performance. It's a super fast chip and for gaming, you can't go wrong if your budget is tight.
+Awesome CPU. Stays cool when gaming. Easy installation. Recommend! Picked up for 199.99!
+It's fast, easy to install, runs programs with no problem and keeps cool. Make sure to get an adapter for the socket for mounting on your heatsink. I don't have one on but it's fine for now. Overall I love the combo they had with the free game. and motherboard. Ryzen for life.
+I think it’s wonderful and fast but currently I don’t have a gpu so I tried to do some light gaming on the igpu but if I tried to change the graphics settings, the screen would go black and I’d have to press the windows key to “fix” it so I can close the game. I tried to update everything but nothing worked so I just stopped trying. That’s the only reason I’m giving 4 stars. Highly recommend it
+Very good 4k gaming performance for the price. Getting over 100 fps on 4k high settings in many games paired with 7900xt.
+One of the best processors I've had. It keeps up and matches my setup. I would definitely recommend this processor. The price is excellent for the processor itself.
+If you are looking for a good cpu for a lower price compared to others, this is the one.  With amazing price to performance, you can due this for heavy work loads or for your most intensive gaming loads.  Just get it already!
+Great CPU! Runs very hot, but an under-volt will fix that. Very good performance for the price.
+Bought this to replace my uncles aging I7 6700k, which would not let him upgrade to Windows 11.  So far I have not heard any complaints with how well it runs.  Did not run any tests on it's performance but my uncle is happy.  It runs his Star Wars The Old Republic game just fine, and it's not too bottlenecked by the 2070 in his system.
+
+Like all AM5 CPU's it does run a little hot.
+Scared me a bit when the temps briefly pushed up to 95c installing software, but apparently that’s the norm for this series of processor and it is still functioning as intended even at those temps. Just keep that in mind when purchasing. Outside of that, it’s been very solid for me.
+The processors are at an exciting point where they're basically all over kill. I just built a new desktop that I do a lot of work related stuff but also some gaming on. This processor was obtained at a price that was unbeatable. I might eventually upgrade to a 7950x or similar, but we'll see if and when I get to that point.
+amazing cpu runs very quick, allows me to do anything with no problems
+PBO is putting this cpu above 5ghz regularly while not drawing more than 110w.
+Great performance part for anyone in this budget
+What can I say? This is a great mid-range CPU for the price. Nice performance and temps have been stable. Highly recommend.
+Best gaming processor I have used and very good price for first-time PC builders.
+This product has been amazing. It has great performance.
+Bang for your buck processor! Great for 1440p gaming!
+For my first build it definitely isn’t a bad choice I found it at a great price
+works just fine i use 2 monitors i stream while i play game max settings 1080p no freezing does heat up but not enough where you need to spend a few hundred on an aio or water cool system
+I bought it for my son for this first DIY desktop. He likes the speed and compatibility.
+Fast processor.  Good value for gaming computer.  Good temperatures while under load.
+Fast cpu. Great for gaming used it for my first pc build very satisfied
+Performs a lot of stuff on the market and run. Super cool.
+The main reason I got this CPU besides the noticeable upgrade was to get a free copy of Starfield. AMD promotes a free Starfield digital copy by purchasing this type of CPU (and other CPUs and GPUs).
+
+AMD support does not issue the digital copy, it has to be the seller. Best Buy sent me an email after purchase with instructions on how to redeem the digital copy of Starfield.
+Incredible speed and performance at a great price. Wonderful entry level AM5 CPU at non-entry level performance.

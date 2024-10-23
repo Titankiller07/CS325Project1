@@ -1,0 +1,89 @@
+WOW!  for 400 bucks you cant beat this processor at this Price for an AMD upgrade, great for multitasking and Gaming!  
+
+HUGE upgrade from the 3600x and you can use it on older boards like the x470 and it works great! HIGHLY RECOMMEND!
+
+Really this is a no brainer! If you get this you wont need to upgrade for years and let the new generation of processors coming out work out the bugs.  In 3-5 years when the newer 7000 series matures and gets better all the prices will be stabalized and you will get the best of both worlds! Get this CPU before it is too late!
+
+You will LOVE it! Trust me.  If you buy a 5600x that is ok too, but you will want to upgrade more than likely again in a year or two. 
+
+Your next real upgrade path with AMD is going to be next Generation which will take a year or more to mature and prices to get reasonable.
+
+This processor will hook you up for as long as you need your next NEW BUILD!  You can go 4-5 years with this untill your next upgrade with this processor for sure!
+
+This is the last of the processors coming out for the tested AM4 system and the best bang for top performance.
+
+Plus Best Buy Shipped SO FAST, 12 month financing no interest!  Get IT!!!!
+After needing an upgrade from my 3600x, I decided to go with this guy, and all I have to say is WOW! I had to COMPLETELY overhaul the components in my PC because of this guy- it's a powerhouse. Between a new MOBO, AIO, and even GPU- All so it wouldn't be bottlenecked by this beast of a CPU. It's a great processor if you're gaming/editing/streaming, though if you're purely gaming, the 5800x3D is a great option as well.
+
+TLDR- If you need an upgrade for gaming/editing/streaming, you won't be disappointed.
+Love my Ryzen 9.  I was a little curious about AMD, because in the past they had been slower, but not anymore.  I think they've been pretty good since 3 series, and really good here in the 5th series.  I'm not sure what more next gen processors do, but this one does all I need it to do and fast!  Anything local to my drive comes up instantly.  I use it to game and for productivity, whether video editing or image editing, zero issues, even though those are done in large part with the graphics card.  I've had a billion windows and videos open and no stutter.  It just barrels through it all.  I'm can't get technical on the cores and threads, because I'm not that deep in PC language, but like I said, it handles everything I do and fast.  It's probably overkill for what I use it for, but I don't like lag at all, so I'm happy there isn't any here.  For someone who isn't that savy, building a PC isn't hard and I encourage you to try as long as you know your build specs, can find the software for your components and are at least a little mechanically inclined, you can use youtube for guidance.  Don't waste money on prebuilds, use pcpartspicker dot com and build one.  You get to choose the quality of all the parts in your build, not just the ones with the flashy specs the pre-builts draw you in with.  It theirs is cheap, they cheaped out somewhere, like the RAM, PSU, motherboard, storage drive, case or fans.  They just show you a decent processor, flashy graphics card and high amount of RAM, but a cheap foundation will rear its ugly head eventually.  I'm not sure why the rant, but nevertheless, consider building your own.  If anything it's cathartic and great to learn.
+AMD continues to impress.  This CPU is amazing!  The 5900X absolutely blows the Intel i9 10900k out of the water when it comes to productivity and can trade blows when it comes to gaming (something Intel generally excels at).  It's so nice to finally see AMD competitive w/ Intel again.  The Ryzen 5000 series processors are a big step up in architecture from the previous generation (3000 series), especially when it comes to gaming, better CCX efficiency, and improved IPC (instructions per cycle).
+
+The only con I can even think of is that these do tend to run rather hot, especially compared to Intel CPU's.  Though it's not really a con since AMD has stated that it's expected that these can peak at 98°C without issue.  Throwing on a decent cooling setup is highly recommended.  I run an Arctic Freezer II 360mm AIO and temps generally range from roughly 37-38°C @ idle to 68-72°C @ load.
+
+Having said all that, this processor is in extremely high demand & will be very hard to come by @ retail prices.  If you can eventually get your hands on one, even at a slight ~$50 mark-up from MSRP, I would still recommend buying it.  You most definitely will not be disappointed with your purchase!  =)
+Excellent price for a 12 core cpu. Incredible performance. Great for gaming and multitasking.
+My only con is that my box was pretty roughed up when I came to pick it up. CPU was fine but seriously Best Buy when your buying a high dollar item like this I prefer everything including the box to look brand new when I arrive. Seeing this had me a little worried that my processor was possibly damaged. They need to package these better. I have nothing against intel but I see no reason not to buy AMD when it comes to CPU’s. This CPU is beefy. For 5000 series processors I highly highly recommend this over the 5800x and even the 5950X. It’s spaced perfectly in the middle to be a good bang for your buck if your willing to put the money down for your cpu. I upgraded from a R5 3600x and even saw a significant difference in the way my computer runs. Programs feel more responsive, you can multitask however you feel. On first boot there’s very very minimal delay when you try to open stuff. Don’t be fooled by the “you don’t need 12 cores for gaming” because if your buying this CPU it’s more for the user experience with games and more so how well navigating windows is on your PC. Most games will benefit from the core increase but don’t expect huge FPS jumps because lost games today are more GPU limited. But if you view your CPU utilization while playing games I saw my utilization drop significantly. Which in turn dropped my CPU temps down quite a bit too. Overall there’s no reason not to buy this CPU. I personally feel it’s worth the money, and it will keep your computer serving you in the long run. I managed to get a 3080 recently too and this paired with a 3080 is an excellent combo for high refresh rate 1440p. Buy one when it comes in stock. I managed to get one from Best Buy when they dropped with gpus last few weeks me try we’re in stock for a good 45-60 minutes if say. Also remember to update your bios and or check to see if your bios version supports 5000 series. Wasn’t hard to do, but before you go and spend double check.
+The AMD Radeon 9 5900X is 12 Core, 24 Thread processor. It’s great for both gaming & content creation. My processor is revision (B) boosting to 5.25GHz on a high performance air cooler. With a 23,000 CB R23 multi core score. I’ve seen 147 watts & 79 degrees (C) with 10 minute CB R23 stress test. My motherboard is the Gigabyte B550 Vision D-P. I would recommend the AMD R9 5900X to family & friends.
+Great chip for multitasking and gaming pairs well with a 3070ti probably would recommend more so for someone editing or using for (streaming and gaming). It’s a lot of processor and with that, if you use a water cooler it’s like having a second sun in the room next to you. But over all it’s a good do all chip if you can snag for around 400 bucks and already have a b550 or x570 motherboard go for it but if you are already an intel person stick with the 12th gen chips because they are all more powerful for gaming if that’s your goal for the chip. 12700k is literally faster in almost every way on user benchmarks web site and can be found for around 380 usd most of the time so it’s a toss up as far as that goes and you will need a z690 motherboard for the 12th gen chips so do what’s right for you! Oh and most zed 690 motherboards only support ddr5 ram so be careful if buying that make sure your ram is compatible with the board you purchase.
+The performance uplift from 3900xt from 5900x is easily noticeable at 1440p gaming and office workflows. Benchmarks are great metrics but often are not translate well from numbers to actual use. Please be aware there is increased heat production in the generation update from 3000 series and would be event greater from older generations. I would advise a nh-d15 or 140mm aio equivalent should be used even without PBO enabled in a good air flow case. Overall this chip is great value at its current price point and being last AM4 socket generation.
+... those that haven't moved on to AM5 LGA and are still holding on to an AM4 motherboard may want to get this before they are gone.
+
+HOWEVER...
+
+AMD announced in early August that another AM4 CPU is on its way and it is the Ryzen 9 5900XT 16 core - 32 Thread.
+
+If I knew that I would have held off on this purchase. This replaced my second AMD AM4 CPU for my B450 motherboard and it was a Ryzen 5 5600X 6 core - 12 thread. 
+
+When the the price got down to $234 and took a chance on the 5900X.
+
+I currently don't have the latest GPU, But in 3DMark Time Spy the CPU score is 12,527. Not overlocked.
+
+Previous CPU score was 11,798 with an overclocked Intel i9 9900K.
+
+These CPU scores are close. But I don't have the heat issues with the 5900x like I did with 9900K. I'm still using the same AIO water cooling setup.
+
+Just passing this info on.
+Beast level processor, I did an upgrade from a 5800x because the price was so good,I paired with my  Rtx 3070ti and honestly it way more power than I need for Tomb Raider, Elite Dangerous, and Control but who needs a corvette!, you get it because you want it. The CPU runs cooler than I thought it would with both the Mugen 5 and the Arctic Freezer 2 280(GET IT). Amd did a great job with this CPU, as well as the 5800x I had before it. You dont need this cpu, tbh my 5800x was more than I needed but if you want it go for it. No REGERTS(LOL)
+Upgraded from a ryzen 5 5600 and it has been a blessing. Double the amount of cores and it handles everything i throw at it. If you are a gamer u can get 200-300 fps pairs with a 3070ti on 1080p easy.
+Uograded my wife’s pc from a Ryzen 7 3700x to a Ryzen 9 5900x and we are happy with the performance. We play some CPU intensive games and it is a solid upgrade, and stays rather cool even with a 240mm AIO. We don’t see a reason to upgrade again for at least a couple years with how well this is performing
+An absolute beast of a processor! Running games, streams, YouTube, autocad, music, and calls and this thing doesn’t slow down!
+This processor is simply amazing. Perfect for creators and gamers alike. If you can find it on sale, don’t hesitate. Worth every penny at full price!
+Great price. Haven’t used it yet because I’m building a pc but I am happy with the price
+Great processor, can run several applications without slow down. Can get a bit hot, needs paired with a good cooler, 360 AIO.
+First build with my son. Nothing crazy…matched it with 7800xt. It’s not going to hit any benchmark homeruns but it handles anything you can throw at it. No issues with temps and a decent buy at $300 for a office/gaming setup
+This CPU is the best I’ve got so far. Ultra Fast, I don’t know what it cannot handle it has 12core 24 threads and affordable price. But it is a little hot, but having a 360mm aio liquid cooler kept my CPU temps below 60 during game.
+Love this cpu! Powerful extremely fast good cooling everything love it
+Super fast CPU and can handle all the chrome tabs you throw at it lol
+Best cpu upgrade Ryzen 3 to Ryzen 9 never have   Seen speed and easy to install.
+I highly recommend this for somebody who's trying to run multiple programs at once. I can run Photoshop and Lightroom and run a couple other things that all at once with ease.
+Bought this at Best Buy store and it was the last one.
+Upgraded from Ryzen 7 3700X to this CPU and let me tell you, This baby flys.
+Very fast and got a great deal.
+If you can get one of these CPUs do so! They beat every CPU Intel is making right now!  If you game this is the best, you don't need the 5950X, this performs jus as good in benchmarks.
+Paired it with 3080 12gb, runs great for gaming & photo and video editing.
+The Ryzen 9 5900X delivers exceptional value with its impressive price-to-performance ratio and minimal power consumption. I've remained a satisfied AMD user ever since making the switch from Intel back in 2011.
+I have no real  complaints except heat, but the msi 360rAIO makes light work of it. Excellent at everything I throw at it.
+The Ryzen 5900x CPU is amazing.  Does All-Core 4.750Ghz using Precision Boost 0verdrive 2.  Turbo's to 5Ghz or more on some cores. A significant jump from Ryzen 3000 series chips or older.
+
+Sockets directly into your existing or new B450/B550 and X570 motherboards.  Make sure your BIOS is updated.
+
+Any of the 5xxx series processors will work out great to be honest, but if you are an extreme overclocker or want to keep your system around longer before it's replacement is required, you might want to splurge on the 5900x or 5950x.
+It was very fast and handled my games very well, it was a lityle too hot
+Great value for this price drop.  Computer has no trouble running davinci resolve 18.5 and editing apps paired with Rx6750xt gpu
+I’ve always wanted to have a Ryzen 9 I finally decided to do so! Using this for editing on Photoshop and Lightroom is awesome! I have no issues with rendering or making quick changes like I used to. And for gaming it’s a little overkill but I have no regrets!
+Great CPU for intensive tasks like code compilation, 4K video editing, etc. Needs a good cooler though. Getting 45 to 60 degrees celsius under low load, 85+ under full load.
+Got it on Black Friday sale to replace a 3700x. Boosted frame rates on my old 3070 by 10% on average. Frame times also more consistent and smooth.
+This Was a replacement CPU for my current pc. I had a R5 3600 that went out and need a new CPU couldnt get a R7 58003D. So i Got this instead for the same price. Its doing good.
+works great runs beautifully best cpu i’ve had yet
+I ordered my cpu through bestbuy.com and my order was ready within 45 minutes. So far the 5900x has ran amazing in my updated rig. Would defintely recommend for any enthusiast as well as purchasing through best buy due to their competitive pricing.
+Ive been meaning to swap from my ryzen 7 3700x i bought 4 years ago and this was the same price i paid for that 4 years ago! Great performance and is capable lf doing better than advertised, overclocking on this cpu is amazing! I even bought a 4070 the same day i bought this and they are amazinf when paired together.
+Woo woo! Glad I went with this. I was going to get the 5800X3D because I primarily use this system for gaming, but ended up with this. With the curve optimizer, I'm getting clock speeds of 5150GHz consistently when the application needs it. I have a -20 magnitude adjustment on all cores and its been stable on all my applications. Where is Intel?? I can't hear em. And nor can you hear my fans as this CPU is running cool with only 2 140mm fans in a mini-itx case. Good job AMD.
+12 cores 24 threads at 4.7ghz
+Pretty good 
+Unfortunately I didn't win the silicon lottery I can't do all @4.8 and can't single core a 5ghz.
+Sad face .
+Coming from a 2700x 
+I don't know how good it is in games because I can't purchase any rtx 3000 series cards or a rdna 2 cards .
+I'm too hard headed to purchase above MSRP prices.
+If everybody was like me scalpers wouldn't exist.

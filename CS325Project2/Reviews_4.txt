@@ -1,0 +1,55 @@
+I'm happy that I was able to get this at retail price a few weeks ago from Best Buy. I still haven't been able to score a graphics card yet but hopefully someday soon. 
+This is a great CPU, very noticeable speed increase over the ryzen 3600XT that I had prior. It runs slightly warmer but not much than the 3600xt. Just make sure you have a good CPU Cooler and adequate air flow in your case and you'll be good to go. Very good benchmark scores with just a slight overclock, worth $100 savings over the 5900x especially if you don't need the 12 cores which most people don't. I highly recommend!
+I upgraded from my i7 5820k (6C,12T). After dealing with [Intel Security] Flaw after flaw after flaw, and all the windows 10 patches that came along with them. My CPU suffered majorly in performance. It was a Haswell generation CPU which got hit the worst out of all the generations. Gaming FPS (frames per second) were noticeably worse as each patch rolled around. My average FPS was lowering significantly, my minimums were suffering and fps in general was extremely inconsistent now, and i was experiencing frame drops across all the games i played(due to the minimum fps suffering so much) 
+Now i have upgraded to an amazing cpu, my computer has never been so fast, and my fps is very consistent now with and i have pushed the max fps ceiling higher than i have ever experienced. My 1070ti is performing way better than it ever did on my intel cpu. I highly recommend this cpu. 
+
+Much faster than intel in single and multicore clocks. MUCH MUCH LOWER TDP THAN INTEL. This CPU literally sips watts when idle and doesnt go higher than the 105W TDP while gaming. i think the highest i noticed it so far was around 90W. 7nm is better than 14nm+++++++++. 
+Ryzen 5000 series is king for gaming and productivity workloads now. 
+
+(all my testing and usage has been using asus b550-f gaming wifi motherboard, BIOS version 1212, and using 2x16(32gb) 3200 C14 B Die memory, and Asus ROG Strix 1070ti)
+Upgrading from a Rzyen 5 3600, the difference is STELLAR. Highly recommend, and pairs well with my RTX 2080.
+
+Only downside is it runs quite hot under basically every load type, really concerning at first, but from what people say online that is the norm because of the 3D VCache.
+Upgraded from a 1600x, than to a 5600x. My 5600x CPU one day decided to stop working. This forced me to purchase a new CPU. The RMA process for AMD was super easy. I am keeping the 5600x as a backup. Going from mostly the AM4 Ryzen 5 series  to the Ryzen 7 5800x is a huge leap depending on the applications you require. The horsepower this CPU gives you under load and multi-tasking is insane. For what I do, this CPU is overkill but the price is just too good to pass up. 
+
+This CPU does run a bit warmer than the 5600x but not by much. I have a 240mm AIO cooler from ID Cooling and it keeps the temps around 41C - 80C.
+Great processor! Make sure to get when they go on sale! It’s fast and provides good performance for my X570 Motherboard and probably is Overpowered for my 3070.
+Best value for price match after intel 12th gen came out. R23 cinebanch over 15000 without overclocking for multi core. Temperature is the only issue.
+I’ve had this cpu and have been able to multitask a lot more on my pc. I upgraded from my horribly slow ryzen 3 in my prebuilt and I was able to get this cpu for a slightly lower price! I loved the customer service and would definitely go again to future BestBuy stores in my area.
+Runs a little warmer than I would like, but it is a great CPU that provides solid performance for gaming or productivity. For the right price, it is a great upgrade for those who are already on the AM4 platform.
+Very fast. It's a good upgrade over my Ryzen 5. I use a corsair 110 AIO and it's perfect.
+very good value especially after 7000 series has come out. will still play all the games you want at good frame rates when paired with the right graphics card, i am running a 3070.
+Great price and performance rocks.has been extremely stable for overclocks as well
+The AMD Ryzen 7 5800X is a great buy. It came in under budget it's very powerful . This processor offers great features,  I'm very happy with my purchase and I will buy another one soon
+It is a very good cpu for the price I recommend pairing it with a 3060 or a 3070. Very good Ryzen on top.
+I love this cpu its super fast , there is not a thing this ryzen cant handle !!! I love it plus the game play and graphics are incredible id definitely recommend it for gamers
+Amazing and absolutely the best cpu for the steal of a price. Love it and haven’t had a single problem.
+Great price for the performance it provides. Will recommend for anyone with amd gpu’s
+I've had this guy in my system for a little over two years now and it's served me exceptionally well, from music production to CPU-heavy gaming, it's eaten up practically everything I've thrown at it happily!
+I will say that if your primary use case is going to be gaming and you don't plan to overclock your CPU, this guy's 3D variant might be a better fit for you, but both variants are still very powerful.  Highly recommend!
+This cpu can play any game title without any issues even the high cpu demand ones ... i use this playing cybeepunk 2077 with all settings maxed out and it dosnt struggle at all i dont even have to overclock it. Liked it so much insted of getting the new platform for 40 series i turned around and bought another one. Why not it does everything ive thrown at it
+Purchaswd for an upgrade and its well worth the money handles anything i throw at it ... but runs hotter than others
+The Ryzen 7 5800x, is an Extremely powerful CPU, Good for multitasking, Live Streaming, Video Editing, ect... I have had this CPU Now for just about a year & a half, and i have no complaints, if your in the market for a well priced powerhouse of a CPU, then this is the one for you!
+Coming from a Ryzen 5 2600X, this is a surprisingly large upgrade. Performance is noticeably better and more consistent in CPU-bound things like emulation and some games. Obviously, this chip completely destroys synthetic benchmarks.
+
+Just know that these chips run very hot without some tweaking in the BIOS. Before tweaking, my Cryorig R1 cooler was barely able to keep this chip under control (60s when idle, 80s under any load). With the appropriate tweaks, the chip idles in the 40s and only reaches the mid-60s under most loads, with certain heavy loads bringing it into the low 70s.
+Insanely Happy Now My FPS SHOT Through the roof and now i aint missing a thing or nothing misses my eye.
+I upgraded from my ryzen 7 3700x to the 5800x and am very happy about my decision. It is a little bit more expensive then the intel processors out there but worth it if you use your computer for work and gaming. It worked right away with no bios adjustments or updates on my asus tuf x570 board and I’ve been able to overclock it without any issues
+As I get home and try to install my brand new Ryzen 7 guess what I drop it. Pins bent, panic, rage everything you could imagine. After about 100 laps around the house and 500 google searches later I have to do it. I rebend all the bent pins back to the forward position install the CPU which needed an extra push to seat. After everything that raced through my mind the computer turns on boots and fires up like nothing happened. The CPU itself is a monster and I couldn’t recommend it more after the great experience I had with it.
+It works like i wanted!  Great for the gaming rig.
+Absolutely a great product, been using this cpu for the past 2 years and it never let me down. ordering from best buy was a breeze,Also free fast fast delivery from best buy is the cherry on top. My next pc build will definitely be from best buy again as the guys who helped me pick out the parts were very helpful.
+My PC is mostly for school, work, and gaming. Gaming is by far the most intensive of those three, and it has proven to be an awesome CPU for everything that I do. I have not seen many bottlenecks when paired with my 3080 Ti. Worth pointing out that the cooler shown in my photo was from my previous CPU. THE COOLER IS NOT INCLUDED.
+Good processor, smashes everything I throw at it. Run at 4.7 ghz and stays nice and cool on water, first AMD processor since my 8350 days. Had a couple issues with getting the bios on the MSI motherboard to update before install but figured it out
+This is has been the perfect update from my R5 3600. I'm seeing at least 10 FPS difference in most games and all I had to do is upgrade my bios and drop it in. Will be sticking with AMD on AM5 when prices come down.
+Great service, I received quick and through help right as I walked in, store is clean with nice climate control, nice displays, easy to find items
+This new cpu is a beast. i upgraded from the ryzen 2600x to this. So far i have no complaints.
+I switched from a r5 3600 to this and it’s the best decision I have made this year. With it being on sale it’s pretty budget friendly
+Major upgrade to my setup,loving the speed boost. I was a little scared to install it myself but it worked out.
+I bought this on sale and paired it with a 6700 XT lately I have been playing Far Cry 6 it changed my average frame rate from 81 to 116 on 1440 Ultra
+Honestly couldn't beat the price for this product when we purchased it. Was a little aggravating to get it inside the case, but nothing unusual. Wish it was a 9, but I'll settle for the 7.
+This CPU is amazing super fast and easyto overclock through AMD's software. I would recomend this processer to anyone wanting to upgrade or starting out and build a pc. This paors very well with the asus Rog b550f motherboard or x570 if you wanted something a lottle nicer.
+Switched from R7 3700x to this bad boy cpu, i was really hoping to get the 12 core one bur this fine. Way faster processing than 3700x and I have it running with the EVGA RTX 3070ti
+With an 850>PSU. I have the Corsair H100i Elite Capellix for cooling never get temps about 62°c with 64gb 3600mhz ddr4 ram I've included a couple of pictures.
+Upgraded from a Ryzen 7 2700 to this Ryzen 7 5800x. I’ve noticed a huge difference in stability and power. I am a sound engineer and this has been chewing through multiple recorded tracks with countless VST tracks active. I am extremely happy with this upgrade.
+This processor really packs a punch! It's quite the upgrade from my old ryzen 5 1500x. This is a pretty high grade processor, make sure to do your research before purchasing. No problems with it so far, I just built my new computer a couple of days ago and it's doing a great job!
+Gets the job done for a fair price. I am gonna upgrade to a 5950x tho since I have a4080

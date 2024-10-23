@@ -1,0 +1,100 @@
+Great and Powerful CPU, pairs great with my 4070 ti, giving the best performance at 2k epically with that 3D cache.
+This processor is worth every penny. It's blazing fast and sips power. 100% recommend
+I have not opened mine so I cannot give a full objective review. I will explain the reason I am returning mine. I have also bout a 7950x from BB with rewards as was planning to replace it with this CPU. That being said... with all the BIOS issues and SOC voltage spikes... I think I will wait on this one. Returning it tonight...
+It's a very feature-packed COU but honestly it's execution felt like a bit of a mess next to the 7950x. Sure it's extremely power efficient and it has two sets of CCDs for different frequencies and cache capacities but when this CPU actually runs I personally noticed issues with how it would switch between its dies for different uses. If youdon't mind going the hassle of turning off one or the other CCD for different purposes then you may find value in this processor but practically the 7950x doesn't use that much power unless in productivity use (and even then it's not even much higher than the 5950x's draw) and for me it ran smoother and snappier because it didn't have trouble switching between CCDs. Lastly, the 7950x being $130 cheaper has much more value for its price.
+I have been waiting to purchase this CPU for over a year  since the original 5800X3D came out. I wanted to address some of the criticisms of this CPU and help people get an accurate assessment of it's performance. 
+I am running a 4090 as well.
+I have personally also tested the 13900k in order to come to a fair conclusion. With that being said. The reason why I believe this CPU is better than the 13900k is because of a few main characteristics. Temperature control, tweaking, long term support.
+
+Let's discuss the troubleshooting/tweaking since it's the main argument against the 7950x3D being crowned the king especially in gaming. 
+Many Intel users will report that the 7950X3D is worse than the 13900k with 7200-8000Mhz ram. This however is a massive catch. Because in order to get 7200mhz ram working you have to spend hours in the BIOS tweaking the voltages just right and manually configuring the timings so it can boot properly. Even one of the most experienced overclockers known as "buildzoid" has found this to be nearly impossible to stabilize for long term use. So the argument most critics try to use can be invalidated simply on this point alone in terms of comparison. Because even if it is stable for gaming, it won't be under an intense stress test. Which can lead to system corruption and a broken operating system which no one is happy about. 
+
+Next let's talk about temperature, the 13900k even with a 420MM Arctic radiator is unable to cool itself to a proper temperature. Meaning that the CPU gets above 90c and reaches thermal throttling within a few seconds of a stress test. Why is this such an issue? Well when a CPU reaches thermal throttling or high temperatures. It will artificially throttle or slow itself down in order to protect itself. This can lead to massive drops in performance and is never a good sign. There is however one way that most users have found a way to lower the temperatures and that is installing a special mounting bracket for the motherboard socket. It is created by der8auer, it is fairly inexpensive and only costs about $5-10 so it isn't a large investment. But this requires disassembling and reassembling the entire motherboard socket which can be extremely difficult to manage for some users. Where as on a 280mm radiator the 7950X3D never gets above 75-80c in my testing. 
+
+So what's the catch with the 7950X3D? 
+The main thing that may draw users away from this cpu is it's architecture and scheduling. The 7950X3D has what's known as a dual-ccd design. Meaning it has 16 cores but they are split into 2 groups of 8. One chip has the 3D Cache that boosts gaming and some applications with a slightly lower boost clock of 5.25GHZ. The second CCD has a higher boosting clock of 5.7 but has no 3D Cache. 
+
+This has led to AMD/Microsoft needing to cooperate in order to come up with a solution to this scheduling conflict. Because the operating system needs to make sure it uses the right 8 cores for gaming. This however is not as well designed as Intel. Because rather than relying on a firmware directory known as "thread director" that intel has created manually on the CPU Itself. Which helps scheduling conflicts. 
+AMD has opted to use XBOX game-bar. Which some users have found to be clunky and annoying at times to use. 
+If a game is not running on the 3D cache, you can open up game bar settings and select a box that says "remember this as a game" which will properly use the 8 cores with 3D-cache next time you restart the application. So although this cpu has some scheduling issues. In time it should be ironed out and won't be as big of an issue. But it is still something to keep in mind going forward. 
+
+Finally and arguably most importantly is long term support. The motherboard platform that the 7950X3D is running on is known as AM5, AMD has publicly announced that they plan to support this CPU all the way into 2025. This means that another 2-3 generations of CPU's can be used with this exact same motherboard. Meaning when you want to make an upgrade. You don't have to disassemble the entire PC. You can just set the new cpu in and be done. This is a very nice feature to have for some people and it payed off amazingly for people that bought into AM4 with the 5800X3D. 
+Since the 5800x3d was supported by motherboards that came out 4-5 years ago. Where as Intel forces each new cpu generation to only support 1 motherboard for 1 year. So the 12900k/13900k are supported with Z690/Z790 boards and that is the most you are getting from that platform. 
+Overall though, the experience I have had as an avid E-sports gamer and daily windows user has been amazing. The issues I have to deal with are easier to manage than Intels and overall it's a great platform to be on. This generation of hardware from both companies is so close that there is no wrong decision when it comes to choice.
+The CPU itself (in theory) is amazing. Two CCDs one for gaming with the 3D cache and another without for productivity. 
+
+You can use process lasso to set games to use one CCD with and applications to another CCD. 
+
+The problem is the debacle that is happening between board partners and AMD that is causing CPUs to die, degrade, or even catch fire. BIOS updates to fix the problem are still in beta, meaning the board partners were not prepared to have a fix out readily available to consumers. 
+
+For more technical information on the issue I recommend checking out Gamers Nexus and der8auer’s YouTube Channels.
+
+From a consumer’s perspective I cannot recommend this product for its overall high risk and price. 
+
+AMD has stated they will honor an RMA if your CPU dies but how do we know they will? We simply don’t. Also, this is a $699 chance you are taking. Ask yourself, is it worth that risk? 
+
+If you purchase this product you are simply a beta tester to AM5 but importantly you run the risk of having a degraded CPU over time. 
+
+If you do purchase this product, please make sure to update to the latest BIOS and follow up on the latest news and guidelines from AMD and board partners.
+So, I've had my trusty Ryzen 7 3700X in my pre-built PC for quite some time, and it's been a reliable companion. However, lately, I've been itching for an upgrade that promises better gaming performance, smoother multitasking, and an all-around speed boost. Enter the Ryzen 7950X3D - it's like the dream CPU for gamers and power users.
+
+But here's the twist: to make this upgrade, I had to dive into a bit of a hardware adventure. It wasn't just a simple CPU swap; I had to upgrade my motherboard and switch to DDR5 RAM to make it all work together.
+
+Now, the Ryzen 7950X3D does live up to the hype. My gaming experience is on a whole new level, and everything just feels snappier. But, let's be real, that extra performance came at a cost, not just in terms of dollars, but also in terms of time and effort spent on the upgrades.
+
+Ultimately, though, I made the leap because I wanted that extra oomph in my PC experience. It's not just about specs; it's about the joy of seeing my PC perform at its best, even if it meant rolling up my sleeves for the upgrades. For me, it's been a worthwhile journey to a better computing experience.
+I am a gamer and have been using Ryzen 9 for a couple of months. This can handle a heavy overload so the CPU delivers the fastest gaming performance. I am very happy with the product and looking forward to updating it whenever I can. This comes at an affordable price.
+Very nice upgrade.  I upgraded from an Asus Crosshair VIII/ Ryzen 9 5950x to an Asus Crosshair X670e Hero and this processor.  I'm using Corsair Dominator Platinum DDR5 6200 RAM.  I'm getting about 20% higher frame rates with my new setup in COD MW3.  I'm using everything else I did from my previous build.  Case, Corsair AIO cooler, 850 watt XFX power supply, Radeon RX 6900.  I runs cooler and quieter.  Also it seems smoother in games.  Really happy with the upgrade.
+
+I'm not sure why so many people are having issues.  Maybe incompatibility with RAM or power supply. My upgrade was well worth it.  I did have to turn off Global C State in the motherboard BIOS to fix a few issues, but after that it's been perfect.
+This thing is a beast
+Was running a 5800x3d and the temps on it where always a little higher then I liked.. the temps on this new gen are perfect
+Paces my 480 super perfectly and then some
+Let me start by saying this is the best happy medium between an AMD ryzen 7 for gaming and an AMD threadripper for workloads. It has full 16 cores and has ddr5 compatibility.  
+
+This is perfect for people who don't quite need a high end threadripper or just want the fastest and most reliable cpu. This thing is crazy consistent and it may not be as top speed fast as an i9 but this thing can handle those larger loads way better. Great at physic engine heavy games, and good for map designing. It cost hurts but the performance is their for cost.
+Solid performing processor.  Using air cooling temps run around 32 degrees Celsius. Paired with a rtx 4090 and 64 gig ram this thing is a beast running at stock settings.
+Ryzen CPU's is second to none. I knew when I was in the process of building my new gaming pc, I was going with the Ryzen 9 7950X3D just for the pure performance it will be able to dish out. Especially with the 8 cores for 3D processing. Will getting 200 fps or higher with this baby.
+Great cpu for gaming and other work that requires more threads lots of power.
+Awesome performance! This chip is a rocket! Highly recommended for the cost benefit.
+...if you're willing to put in a little extra work. The automatic software scheduling solution using XBox Gamebar and windows game mode is spotty at best. Ideally you want to set the CPU to prefer its frequency CCD cores in BIOS and then use a program like Project Lasso to automatically set CPU sets for games and other cache intensive programs. This way you get the best performance for every type of application every time.
+The best quality-price processor you could have for games. I recommend it. Excellent.
+Powerful processor, well recommended for users who game and also stream and run other apps simultaneously.
+I upgraded from a 7900X to this 7950x3D and I've noticed better performance when it came to gaming and using Davinci Resolve ! 
+
+I love the AM5 Platform and their top of the line CPU does not disappoint. Its pricey, but worth it for the ultimate experience.
+I have been using it for roughly 3 months, for some reason my PC acts up with this CPU. Feels like its not well optimized, after seeing other people talk about it, it seems to be a common issue with this CPU. Maybe the 3D V-Cache is better off on strictly gaming CPU's and not workstations where multitasking is necessary. I will be getting a regular 7950X instead, as that one seems to be more stable.
+Smooth game play that is fast. Doesn’t run hot. Easy to use. Better than i9-12900ks.
+As someone who was hesitant with either going with an AMD Ryzen 9 7950x3d or an intel i9-14900k, I don't regret the decision at all. Runs beautifully without any problems and having multiple gaming + productivity applications open at once doesn't raise load over 10%. Perfect for the engineering software I plan to use and the 4080 Super makes a great combination for gaming.
+Once you get the two ccds figured out and get your games to run on the first ccd0 with the v-cache you're good to go. Hint, turn off "best performance" in power settings and used balanced. This enables the CPU PBO to work so windows will automatically "park" the ccd1 cores and prefer the ccd0 cores when X-box game bar is running. You won't need process lasso to do this. It's automatic in windows 11 so long as you have it setup correctly.
+this CPU is incredibly fast and able to take me from 20-40 FPS on Helldivers 2 (with a 3090ti gpu) to 80-120 FPS with the same gpu. 
+
+i decided to go bigger than i’ll ever need so i will enjoy the benefits of a better CPU for years.
+
+Online purchased which was incredibly easy to deal with- i went to my location, showed ID and was given my product. In and out which is perfect for me.
+I ended up upgrading from my 7800X3D to this for best of both worlds and it doesn't disappoint.
+
+When I game, I just go into my BIOS and shut of the non X3D CCD and I have a super binned 7800X3D when I need the extra horsepower. I do this so I don't have to deal with Gamebar or project lasso.
+
+When I'm finished, I just pop back in and re-enable it.
+
+Performance is top notch and paired with my 4090 and a 4k 240hz display it is letting me play my games with silky smooth frame rates.
+Upgraded from 5900x.  It performs well, perhaps not as snappy as I thought a top tier cpu would.. but I can’t complain.  It hasn’t been the bottleneck gaming … so all in all I’m happy. I probably should have gotten the 78003dx. Cheaper and for whatever reason has better score gaming.
+Fast processor handles cod good that about all i do  with it
+Just above average. This CPU is great does everything I need and some.
+Blazing fast make sure to pair it with a fast ssd this thing rocks
+Works very well so far, no issues whatsoever. Runs games well :D
+This is an extremely frustrating CPU to own. You need to make sure you have all the AMD software and drivers installed as well as Microsoft Game Bar running for the 3D V-Cache to make any performance difference in games. But on the other end, this performs fairly poorly in work tasks. It doesn't really want to boost because the 3D V-Cahce CCX can't boost, only the non-3D CCX can boost to 5.7 but the scheduling is only for known-games, not for work. I also found that the 3D V-Cache did nothing for games above 1440p resolution, so there was no point to having it.
+
+3 days into ownership, while on a Zoom call, I hear a click and the system shuts off. I removed every part of my computer until it was just the CPU and MB. I tested the power supply on another system and it was good. So either the CPU or MB died. I ended up returning the MB because ASUS is known for failures. But the new MB had the same issues. The only part left was the CPU. I returned the 7950X3D for a 7950X, and everything works again. This was my first time in 20 years of building PCs that a processor died. 
+
+The 7950X (non-3D) is a beast. Turn on PBO and match it with CL30 RAM and it flies at 5.7GHz. Both my gaming and productivity performance are better than they were with the 7950X3D at stock. Sure the 7950X3D is faster in some games at 1080p, but are you really playing at 1080p? It's just not worth the hassle.
+Great cpu with cache built in. Excelllent for 3d modeling
+Runs cool and fastest cpu ive owned. I wont need an upgrade anytime soon.
+Upgraded my workstation from a 5950x and I couldn't believe how much snappier the 7950x was. Boosted gaming performance is probably the major selling point, but I can't believe how much better general QoL performance is.
+Very powerful cpu best you can get for gaming currently
+Best for graphics and performance based on value for money
+I recently built my first computer and it was really easy to install and works great.
+This is a great processor. I was building my new PC and the video card I ordered was going to be delayed in getting delivered. However, this processor was able to handle displaying and installing everything so when my video card came in, it only took a few minutes to get up and running.
+Great super fast processor. Installation was easy and it also performs great overcloaking. it is also a great for cpu mining
+Fast processor.  Easy to install  More bang for your buck than Intel.
