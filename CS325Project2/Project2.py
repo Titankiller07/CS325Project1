@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import random
 
-input_file_path = "C:\\Users\\cmthi\\OneDrive\\Documents\\Java\\CS325Project2\\Website url.txt"  # Path to the URL text file
+input_file_path = "C:\\Users\\cmthi\\OneDrive\\Documents\\Java\\CS325Project2\\Website_url.txt"  # Path to the URL text file
 output_file_path_template = "C:\\Users\\cmthi\\OneDrive\\Documents\\Java\\CS325Project2\\Reviews_{}.txt"  # Path template for the output reviews file
 
 # Set up the User-Agent to mimic a browser
@@ -42,22 +42,21 @@ for i, product_url in enumerate(urls):
 
     # Change output file based on URL index
     if i >= 0 and i < 2:
-        output_file_path = output_file_path_template.format(1)  # First three URLs
+        index  = 1  # First three URLs
     elif i >= 2 and i < 4:
-        output_file_path = output_file_path_template.format(2)  # Second three URLs
+        index  = 2  # Second three URLs
     elif i >= 4 and i < 6:
-        output_file_path = output_file_path_template.format(3)  # Third three URLs
+        index = 3  # Third three URLs
     elif i >= 6 and i < 8:
-        output_file_path = output_file_path_template.format(4)  # Fourth three URLs
+        index = 4  # Fourth three URLs
     elif i >= 8 and i < 10:
-        output_file_path = output_file_path_template.format(5)  # Fith three URLs    
+        index = 5  # Fith three URLs    
 
     # Write the reviews to the output file
     if reviews:
-        with open(output_file_path, 'a', encoding='utf-8') as file:  # Open the file in write mode
-            for review in reviews:
-                file.write(review + "\n")#Writes the review to the file
-                print(review)  # Optionally print to console
+        with open(output_file_path_template.format(index), 'w', encoding='utf-8') as file:  # Open the file in write mode
+            file.writelines(review + "\n" for review in reviews)#Writes the review to the file
+            print(reviews)  # Optionally print to console
     else:
         print(f"No reviews found for {product_url}.")#If no reviews are found, it prints that no reviews were found for that product
 
