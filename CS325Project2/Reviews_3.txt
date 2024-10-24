@@ -1,3 +1,5 @@
+
+Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-5-7600x-6-core-12-thread-4-7ghz-5-3-ghz-max-boost-socket-am5-desktop-processor-silver/6519479?variant=A:
 Great overall chip for a good price. I upgraded from a R5 3600 after a PSU failure and got this on sale ($200 at the time). Works well as both my gaming and software dev rig.
 
 Pros:
@@ -59,6 +61,8 @@ Awesome CPU. Stays cool when gaming. Easy installation. Recommend! Picked up for
 It's fast, easy to install, runs programs with no problem and keeps cool. Make sure to get an adapter for the socket for mounting on your heatsink. I don't have one on but it's fine for now. Overall I love the combo they had with the free game. and motherboard. Ryzen for life.
 I think it’s wonderful and fast but currently I don’t have a gpu so I tried to do some light gaming on the igpu but if I tried to change the graphics settings, the screen would go black and I’d have to press the windows key to “fix” it so I can close the game. I tried to update everything but nothing worked so I just stopped trying. That’s the only reason I’m giving 4 stars. Highly recommend it
 Very good 4k gaming performance for the price. Getting over 100 fps on 4k high settings in many games paired with 7900xt.
+
+Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-5-7600x-6-core-12-thread-4-7ghz-5-3-ghz-max-boost-socket-am5-desktop-processor-silver/6519479?variant=A&page=2:
 One of the best processors I've had. It keeps up and matches my setup. I would definitely recommend this processor. The price is excellent for the processor itself.
 If you are looking for a good cpu for a lower price compared to others, this is the one.  With amazing price to performance, you can due this for heavy work loads or for your most intensive gaming loads.  Just get it already!
 Great CPU! Runs very hot, but an under-volt will fix that. Very good performance for the price.

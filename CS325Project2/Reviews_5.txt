@@ -1,3 +1,5 @@
+
+Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-9-7950x3d-16-core-32-thread-4-2-ghz-5-7-ghz-max-boost-socket-am5-unlocked-desktop-processor-black/6537138?variant=A:
 Great and Powerful CPU, pairs great with my 4070 ti, giving the best performance at 2k epically with that 3D cache.
 This processor is worth every penny. It's blazing fast and sips power. 100% recommend
 I have not opened mine so I cannot give a full objective review. I will explain the reason I am returning mine. I have also bout a 7950x from BB with rewards as was planning to replace it with this CPU. That being said... with all the BIOS issues and SOC voltage spikes... I think I will wait on this one. Returning it tonight...
@@ -64,6 +66,8 @@ I upgraded from a 7900X to this 7950x3D and I've noticed better performance when
 
 I love the AM5 Platform and their top of the line CPU does not disappoint. Its pricey, but worth it for the ultimate experience.
 I have been using it for roughly 3 months, for some reason my PC acts up with this CPU. Feels like its not well optimized, after seeing other people talk about it, it seems to be a common issue with this CPU. Maybe the 3D V-Cache is better off on strictly gaming CPU's and not workstations where multitasking is necessary. I will be getting a regular 7950X instead, as that one seems to be more stable.
+
+Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-9-7950x3d-16-core-32-thread-4-2-ghz-5-7-ghz-max-boost-socket-am5-unlocked-desktop-processor-black/6537138?variant=A&page=2:
 Smooth game play that is fast. Doesn’t run hot. Easy to use. Better than i9-12900ks.
 As someone who was hesitant with either going with an AMD Ryzen 9 7950x3d or an intel i9-14900k, I don't regret the decision at all. Runs beautifully without any problems and having multiple gaming + productivity applications open at once doesn't raise load over 10%. Perfect for the engineering software I plan to use and the 4080 Super makes a great combination for gaming.
 Once you get the two ccds figured out and get your games to run on the first ccd0 with the v-cache you're good to go. Hint, turn off "best performance" in power settings and used balanced. This enables the CPU PBO to work so windows will automatically "park" the ccd1 cores and prefer the ccd0 cores when X-box game bar is running. You won't need process lasso to do this. It's automatic in windows 11 so long as you have it setup correctly.
@@ -83,12 +87,12 @@ Upgraded from 5900x.  It performs well, perhaps not as snappy as I thought a top
 Fast processor handles cod good that about all i do  with it
 Just above average. This CPU is great does everything I need and some.
 Blazing fast make sure to pair it with a fast ssd this thing rocks
-Works very well so far, no issues whatsoever. Runs games well :D
 This is an extremely frustrating CPU to own. You need to make sure you have all the AMD software and drivers installed as well as Microsoft Game Bar running for the 3D V-Cache to make any performance difference in games. But on the other end, this performs fairly poorly in work tasks. It doesn't really want to boost because the 3D V-Cahce CCX can't boost, only the non-3D CCX can boost to 5.7 but the scheduling is only for known-games, not for work. I also found that the 3D V-Cache did nothing for games above 1440p resolution, so there was no point to having it.
 
 3 days into ownership, while on a Zoom call, I hear a click and the system shuts off. I removed every part of my computer until it was just the CPU and MB. I tested the power supply on another system and it was good. So either the CPU or MB died. I ended up returning the MB because ASUS is known for failures. But the new MB had the same issues. The only part left was the CPU. I returned the 7950X3D for a 7950X, and everything works again. This was my first time in 20 years of building PCs that a processor died. 
 
 The 7950X (non-3D) is a beast. Turn on PBO and match it with CL30 RAM and it flies at 5.7GHz. Both my gaming and productivity performance are better than they were with the 7950X3D at stock. Sure the 7950X3D is faster in some games at 1080p, but are you really playing at 1080p? It's just not worth the hassle.
+Works very well so far, no issues whatsoever. Runs games well :D
 Great cpu with cache built in. Excelllent for 3d modeling
 Runs cool and fastest cpu ive owned. I wont need an upgrade anytime soon.
 Upgraded my workstation from a 5950x and I couldn't believe how much snappier the 7950x was. Boosted gaming performance is probably the major selling point, but I can't believe how much better general QoL performance is.

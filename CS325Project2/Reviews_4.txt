@@ -1,3 +1,5 @@
+
+Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler-black/6439000?variant=A:
 I'm happy that I was able to get this at retail price a few weeks ago from Best Buy. I still haven't been able to score a graphics card yet but hopefully someday soon. 
 This is a great CPU, very noticeable speed increase over the ryzen 3600XT that I had prior. It runs slightly warmer but not much than the 3600xt. Just make sure you have a good CPU Cooler and adequate air flow in your case and you'll be good to go. Very good benchmark scores with just a slight overclock, worth $100 savings over the 5900x especially if you don't need the 12 cores which most people don't. I highly recommend!
 I upgraded from my i7 5820k (6C,12T). After dealing with [Intel Security] Flaw after flaw after flaw, and all the windows 10 patches that came along with them. My CPU suffered majorly in performance. It was a Haswell generation CPU which got hit the worst out of all the generations. Gaming FPS (frames per second) were noticeably worse as each patch rolled around. My average FPS was lowering significantly, my minimums were suffering and fps in general was extremely inconsistent now, and i was experiencing frame drops across all the games i played(due to the minimum fps suffering so much) 
@@ -30,6 +32,8 @@ I will say that if your primary use case is going to be gaming and you don't pla
 This cpu can play any game title without any issues even the high cpu demand ones ... i use this playing cybeepunk 2077 with all settings maxed out and it dosnt struggle at all i dont even have to overclock it. Liked it so much insted of getting the new platform for 40 series i turned around and bought another one. Why not it does everything ive thrown at it
 Purchaswd for an upgrade and its well worth the money handles anything i throw at it ... but runs hotter than others
 The Ryzen 7 5800x, is an Extremely powerful CPU, Good for multitasking, Live Streaming, Video Editing, ect... I have had this CPU Now for just about a year & a half, and i have no complaints, if your in the market for a well priced powerhouse of a CPU, then this is the one for you!
+
+Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler-black/6439000?variant=A&page=2:
 Coming from a Ryzen 5 2600X, this is a surprisingly large upgrade. Performance is noticeably better and more consistent in CPU-bound things like emulation and some games. Obviously, this chip completely destroys synthetic benchmarks.
 
 Just know that these chips run very hot without some tweaking in the BIOS. Before tweaking, my Cryorig R1 cooler was barely able to keep this chip under control (60s when idle, 80s under any load). With the appropriate tweaks, the chip idles in the 40s and only reaches the mid-60s under most loads, with certain heavy loads bringing it into the low 70s.
