@@ -27,5 +27,9 @@ This project scrapes user reviews Best Buy for version of the Ryzen CPU. It Auto
 ## How to use Code
   If you are going to use this code you need to know a few things as well as need to set up the reqirments.
   1. You will need to create a text file that holds all the URLS of the website that you want to scrape the reviews from(I'm not sure if this works for all websites I know it works for Best Buy and somewhat works for Amazon but not fully)
-  2. You can clone this repository following [this](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+  2. You can clone this repository following this [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+  3. Then you can pull form the repository if you have trouble you might be able to just copy and paste the code if you have python and beautifulsoup installed
+  4. You will also need to have multiple text files for the reviews to be put in.
+  5. This code is used to grab 10 URLS 2 for each product and write them into a text file so you will need to adjust the counter if you have more or less and if you have more or less than 2 URLS for each product and you will need to change the input file path and output file path to match your text files.
+  6. You will have to change what the code is looking for in lines 26 & 27 with the div and p class because each website used different named classes and the p might be something else.
   
