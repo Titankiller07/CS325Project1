@@ -1,7 +1,24 @@
-# CS325Project2
-This project is about using python to grab reviews from a website and pulling only the text and pushing it into a text file to save and pulling the URLS form a text file
-1. download beautifulSoup for pyhton if you have python installed if not please do for this to work the you need to go to the python terminal an use pip install beautifulsoup4.
-2. Then grab links for the website that you want to scrape with reviews like Amazon or other websites(Amazon has problems using multiple URLS and acessing them fast and will not pull all reviews from this site some reviews with work)
-3. If using my code change the file that it is pulling the URLs from with your own and change the div class to match the reviews on the website
-4. BeautifulSoup uses the URL and acceses the HTML Code and can pull speciffic items with is but you have to go to the website and inspect it to find what the div nad classes are called so you can chaneg the code to match so it can work and pull the reviews using the class for the div and span/p depending on the website
-5. This code also pushes the reviews into a text file with the name Reviews_# with the number changing so each text file only has the reviews for one item changing evey 2 URLS to another text file and item
+# CS325Project2(WebScrapper)
+## Project Overview
+This project scrapes user reviews Best Buy for version of the Ryzen CPU. It Automaticly grabs the reviews from Best Buy and puts the reviews into text files changing the files for each version of the CPU.
+
+## Functionality 
+- **Automatic Scrapping**: Retriving user reviews/comments from Best Buy on Ryzen CPU models
+- **Version Orginazation**: Each Version of the Ryzen CPU has the reviews seperated into different text files
+- **Data Cleaning**: Grabs comments from the model while getting rid of unnecessary data
+
+  ## Products Selection/Version
+  For this Project/Code uses the Ryzen CPU and only pulls the first 2 pages of reviews for each
+  1. AMD - Ryzen 9 7900X 12-core - 24-Thread 4.7 GHz (5.6 GHz Max Boost) Socket AM5 Desktop Processor - Silver 
+    [View](https://www.bestbuy.com/site/reviews/amd-ryzen-9-7900x-12-core-24-thread-4-7-ghz-5-6-ghz-max-boost-socket-am5-desktop-processor-silver/6519473?variant=A)
+  2. AMD - Ryzen 9 5900X 4th Gen 12-core, 24-threads Unlocked Desktop Processor Without Cooler - Black
+    [View](https://www.bestbuy.com/site/reviews/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler-black/6438942?variant=A)
+  3. AMD - Ryzen 5 7600X 6-core - 12-Thread 4.7GHz (5.3 GHz Max Boost) Socket AM5 Desktop Processor - Silver
+    [View](https://www.bestbuy.com/site/reviews/amd-ryzen-5-7600x-6-core-12-thread-4-7ghz-5-3-ghz-max-boost-socket-am5-desktop-processor-silver/6519479?variant=A)  
+  4. AMD - Ryzen 7 5800X 4th Gen 8-core, 16-threads Unlocked Desktop Processor Without Cooler - Black
+    [View](https://www.bestbuy.com/site/reviews/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler-black/6439000?variant=A)
+  5.  AMD - Ryzen 9 7950X3D 16-Core - 32-Thread 4.2 GHz (5.7 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black
+    [View](https://www.bestbuy.com/site/reviews/amd-ryzen-9-7950x3d-16-core-32-thread-4-2-ghz-5-7-ghz-max-boost-socket-am5-unlocked-desktop-processor-black/6537138?variant=A)
+
+## Per
+  
