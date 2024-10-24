@@ -20,5 +20,12 @@ This project scrapes user reviews Best Buy for version of the Ryzen CPU. It Auto
   5.  AMD - Ryzen 9 7950X3D 16-Core - 32-Thread 4.2 GHz (5.7 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black
     [View](https://www.bestbuy.com/site/reviews/amd-ryzen-9-7950x3d-16-core-32-thread-4-2-ghz-5-7-ghz-max-boost-socket-am5-unlocked-desktop-processor-black/6537138?variant=A)
 
-## Per
+## Prerequisite
+  Make sure you have Python installed I myself am using at this time Python 3.12.4 and have a basic understanding of python as well.
+  Also make sure you have beautifulsoup4 installed with python as it is a required package for this to work I am using beautifulsoup4==4.12.3 as well as needing request package.
+
+## How to use Code
+  If you are going to use this code you need to know a few things as well as need to set up the reqirments.
+  1. You will need to create a text file that holds all the URLS of the website that you want to scrape the reviews from(I'm not sure if this works for all websites I know it works for Best Buy and somewhat works for Amazon but not fully)
+  2. You can clone this repository following [this](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
   
