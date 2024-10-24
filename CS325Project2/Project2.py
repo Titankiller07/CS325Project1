@@ -16,24 +16,24 @@ def get_bestbuy_reviews(product_url):
     }
     
     reviews = []
-    response = requests.get(product_url, headers=headers)
-    if response.status_code != 200:
-        print(f"Failed to retrieve the page: {product_url}")
-        return []
+    response = requests.get(product_url, headers=headers)# Send an HTTP GET request to the product page
+    if response.status_code != 200:# Check if the page retrieval was successful
+        print(f"Failed to retrieve the page: {product_url}")# Print an error message if the page retrieval fails
+        return []# Return an empty list if the page retrieval fails
 
-    soup = BeautifulSoup(response.text, 'html.parser')
+    soup = BeautifulSoup(response.text, 'html.parser')# Parse the HTML content
     
-    for review in soup.find_all('div', class_="ugc-review-body"):
-        body = review.find('p', class_="pre-white-space")
+    for review in soup.find_all('div', class_="ugc-review-body"):# Find all review elements
+        body = review.find('p', class_="pre-white-space")# Find the review body element
         if body:
-            review_text = body.get_text(separator=' ').strip()
-            reviews.append(review_text)
+            review_text = body.get_text(separator=' ').strip()# Extract the review text
+            reviews.append(review_text)# Add the review to the list
     
     return reviews
 
 # Read the product URLs from the input file
 with open(input_file_path, 'r') as file:
-    urls = [line.strip() for line in file if line.strip()]
+    urls = [line.strip() for line in file if line.strip()]# Remove empty lines
 
 # Process each URL and write reviews to the output file every 2 URLs
 for i in range(0, len(urls), 2):
@@ -42,25 +42,27 @@ for i in range(0, len(urls), 2):
     # Collect reviews for the next two URLs
     for j in range(2):
         if i + j < len(urls):
-            product_url = urls[i + j]
-            reviews = get_bestbuy_reviews(product_url)
-            reviews_to_write.append(f"\nReviews for {product_url}:\n")
-            reviews_to_write.extend(review + "\n" for review in reviews)
+            product_url = urls[i + j]# Get the current URL
+            reviews = get_bestbuy_reviews(product_url)# Get reviews for the current URL
+            reviews_to_write.append(f"\nReviews for {product_url}:\n")# Add a header for the URL
+            reviews_to_write.extend(review + "\n" for review in reviews)# Append the reviews to the list of reviews to write
 
     # Write the reviews to the output file (overwrite) 
     if i >= 0 and i < 2:
-        index  = 1  # First three URLs
+        index  = 1  # First two URLs
     elif i >= 2 and i < 4:
-        index  = 2  # Second three URLs
+        index  = 2  # Second two URLs
     elif i >= 4 and i < 6:
-        index = 3  # Third three URLs
+        index = 3  # Third two URLs
     elif i >= 6 and i < 8:
-        index = 4  # Fourth three URLs
+        index = 4  # Fourth two URLs
     elif i >= 8 and i < 10:
-        index = 5  # Fith three URLs 
+        index = 5  # Fith two URLs 
     with open(output_file_path.format(index), 'w', encoding='utf-8') as file:  # Open the file in write mode
         file.writelines(reviews_to_write)  # Write all collected reviews
-        print(f"Wrote reviews for URLs {i+1} and {i+2} to {output_file_path.format(index)}")
+        print(f"Wrote reviews for URLs {i+1} and {i+2} to {output_file_path.format(index)}")# Print a message indicating the URLs processed and the output file
 
     time.sleep(random.uniform(1, 3))  # Wait between requests
+
+
 
