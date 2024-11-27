@@ -1,5 +1,3 @@
-
-Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-9-7900x-12-core-24-thread-4-7-ghz-5-6-ghz-max-boost-socket-am5-desktop-processor-silver/6519473?variant=A:
 At first i thought i would regret not dishing out the extra cash for the 7950x, but i couldnt pass up the performanxe of the 7900x at this price point. Actually, I paid $420 for it because I price matched from Amazon (make sure to always compare pricing). At nearly $150 cheaper, this CPU is straight MONEY. Extremely fast and powerful, handles any task i throw at it. Im able to stream at mad settings and game at 1440p max settings with ease, and it seems like this processor doesnt even blink. Its truly amazing how far the technokogy for these processors has come. So with all that said, I think value plus performance wise the 7900x is the way to go. If you want the flag ship go for the 7950x or 7950x3d but understand you’re really spending that extra money to flex on your friends. Its very unlikely you need that much power for just gaming and streaming. The 12 cores in the 7900x really means this processor is able to take on pretty much any task(s) for about 98% of the PC population. Highly recommend.
 Night and day difference compared to my 9700k @ 5ghz All-core. Though be warned, likes to run a little hot. Luckily I was able to use a Precision boost Option on my Asus Board to still give me great performance and still hit 5.5Ghz All 12 Cores. All that and even with Cinebench I was around 75-80C. Though I am running custom water cooling.
 Runs really well, haven’t had any issues yet! Although for those who are building with it the 7000 series especially this one does run pretty hot but as long as you get some good cooling you shouldn’t have any issues!
@@ -10,30 +8,23 @@ It's an outstanding processor for the money. Did everything I expected of it and
 12 cores of cool running power. Its handled any game or work application I've thrown at it. Massive leap from my old 9700k.
 I purchased this for my first PC build the CPU works excellent and I highly recommend it.
 Great for my combo college and gaming does whatever I need it to
+The Ryzen 9 7900X is a powerhouse CPU, delivering exceptional multi-threaded performance that’s ideal for heavy tasks like video editing and 3D rendering. With 12 cores and 24 threads, it’s more than capable of handling demanding applications and multitasking without a hitch. While it performs well in gaming, users focused primarily on gaming might find similar FPS from cheaper alternatives, as the extra cores are geared more toward productivity. However, it does require a quality cooling solution due to its tendency to run hot under load, and with its AM5 platform’s exclusive support for DDR5, an upgrade may require some investment in additional hardware.
 loving it in the new pc.does run a little hot but pc works great for gaming and work. highly recommend really amy amd option.
 I'm happy with this processor . It's fast and my new 'built' computer boots much faster than the computer it replaces. I paired it with the 4060 GPU AMD and I put 2-2 TB SSD's in for storage. I have 64 GB RAM using the G.SKILL Trident Z5 RGB Series 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 Desktop Memory Model F5-6400J3239G16GX2-TZ5RK and the GAMEMAX Master TG Black Tempered Glass Full Tower Computer Case w/3x120mm Autoflow Rainbow Fans (Pre-Installed). I;m using CORSAIR RMe Series RM1200e ATX Power Supply – Fully Modular – ATX 3.0 – 80 PLUS Gold – Cybenetics Platinum – Low-Noise – .. and the MB is an ASUS TUF GAMING B650-E WIFI AMD B650 AM5 ATX motherboard, DDR5, 8+2 teamed power stages, PCIe 5.0, a PCIe 5.0 M.2 slot, Use this config for gaming and general computing
-I wanted a 9900X, but it just happened to be in stock after i bought this.  No problem, as the price was much better and it far surpassed what i had.
-
-It does run hot and you have to did in the BIOS to cool it down.  The speed is shocking, but i mainly got it for the pcie 4/5.0.  It does make difference on a gpu like the RTX 4080.  An hour and a half 720p video now renders in 7 minutes.  Video games look cleaner and run smoother.  All textures are clear and you can even read labels on boxes!
-
-I played a few games that never gave me issues on the last setup, but they look so much more shockingly better with stronger color info, detail and cleaness.  Watching video and films reveals more detail and the full limits of video quality.
-
-I should done it earlier, but I did try intel, but the 14900k would never boot up.  AMD has AVX512, while intel does not.  Im still shocjed that it out performs my previous intel 12-core.
+I wanted a 9900X, but it just happened to be in stock after i bought this.  No problem, as the price was much better and it far surpassed what i had.It does run hot and you have to did in the BIOS to cool it down.  The speed is shocking, but i mainly got it for the pcie 4/5.0.  It does make difference on a gpu like the RTX 4080.  An hour and a half 720p video now renders in 7 minutes.  Video games look cleaner and run smoother.  All textures are clear and you can even read labels on boxes!I played a few games that never gave me issues on the last setup, but they look so much more shockingly better with stronger color info, detail and cleaness.  Watching video and films reveals more detail and the full limits of video quality.I should done it earlier, but I did try intel, but the 14900k would never boot up.  AMD has AVX512, while intel does not.  Im still shocjed that it out performs my previous intel 12-core.
 Works great so glad I decided to go with this one. Highly recommend
 This thing is great. Everything loads faster and just is faster in general.  Do not look at the cpu temp with the same expectation as older generations.  They wrw rated for much higher temps and will idle at a higher temp than most arw used to seeing.  It takes in much more power than other chips so thay is what causes the temperature increases
 Best processor for the money out there right now. Ideal for gaming and fast fps. Easy installation.
 This CPU is the best bang for the buck. 12 cores 24 threads plus an internal GPU... Nice and easy to drop into an Asus ROG Strix Motherboard.
 I upgraded from an AMD five 5700 on an am4 slot and all I can say is this thing is awesome I put five stars on the value because I caught it on sale which really made it a great value
 This is a definite upgrade from my previous Ryzen 5 1600, and moving up to the AM5 socket architecture. With the new DDR5 RAM combined with this processor, there is a BIG jump on computing power, multitasking ability, and rendering video. I am a big YouTuber, so this upgrade was significant
-The ryzen 7900x is a great card for for gaming PCs
-
-Reviews for https://www.bestbuy.com/site/reviews/amd-ryzen-9-7900x-12-core-24-thread-4-7-ghz-5-6-ghz-max-boost-socket-am5-desktop-processor-silver/6519473?variant=A&page=2:
 The processor was installed by the Best Buy Geek Squad after I bought a new desktop computer. It works great now that everything is set up. I recommend the processor as well as the talented tech support crew.
+The ryzen 7900x is a great card for for gaming PCs
 12 cores over 5ghz under 500$, definitely is overkill as far as gaming is concerned, typically is only optimized at 20% during gaming, as far as doing heavier tasks though you will need a strong cooler as a typical air cooler is not good enough.
 This thing is FAST! And it does run pretty warm under heavy loads without the proper cooling. I am running it with a Corsair 360mm radiator AIO and I drop to idle temps as low as 25c and as high as around ~60c during gaming (even long sessions). However, if you start doing photo editing, video editing, or any other sort of heavy workload, it will easily hit +70c after a while. I would heavily recommend on getting a good AIO preferably a 360mm if you are gonna get this CPU.
 Outstanding cpu very very powerful and also extremely fast.
-I got this and paired it with a RTX 4080 Super. They work very well together for gaming and sim racing.
 Good price, installed and worked great. Undervolted easily to reduce temps. Super fast for gaming all games at max settings.
+I got this and paired it with a RTX 4080 Super. They work very well together for gaming and sim racing.
 This cpu paired with a great graphics card, like the rtx 4070 or 4090 that I’ve used with it is an absolute beast, for gaming or general workstation purposes. I have yet to find something that this cpu couldn’t do with ease. The boost clock of 5.6ghz is obvious, yet with liquid cooling it has never even hit over 70*C. Would defintely recommend
 This is a wonderful cpu. My recommendation is to download rise and master and then limit your cores  to 6 And boost. I was able to achieve 5.4 to 5.5.
 This cpu was a godsend for upgrading from an i9 9900k, it's a perfect match for my 4080 and helps it pump 90-110fps in Cyberpunk Overdrive with Frame gen on. Packaged with Starfield premium, this is a wonderful value and offers a wonderful experience. Amd's software is great too, and it runs CS2 on highest settings without fidelity fx on, offering sub 400 fps.
@@ -41,10 +32,9 @@ Great processor. I use a processor-intensive Astro image processing software, wh
 The best CPU that I've ever owned does it all without breaking a sweat !!!
 Haven't had much time with this processor, but so far it is a beast!!
 Really fast and great for gaming in any rig but does get toasty.
+works great, computer working much faster. Worth the purchase
 Very fast.  These run hot, so have a good cooling solution.  For ~ 330 you won't find a better performing CPU.
-Fast processor. Runs games very well and is great for productivityas well.
 Very good cpu, I play a lot of games, and this cpu performance exceeds my expectations.
+Fast processor. Runs games very well and is great for productivityas well.
 7900x is a huge jump in terms of power allows for sermsless multitask
 I have not had any issues with speed when gaming local or online. I didn’t want to skimp on quality but I also needed a processor that can perform worth the softwares that I use. I highly recommend this processor!
-I was questioning the price of this Processor but at the end of the day you get what ypu pay for and I love it.
-Best product ever!! The most powerful processador price-quality.
