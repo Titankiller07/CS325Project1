@@ -1,0 +1,44 @@
+Sentiment Analysis Results for C:\Users\cmthi\OneDrive\Documents\Java\CS325Project2\Reviews_1.txt
+============================================================
+positive
+Invalid response
+Invalid response
+Invalid response
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+Invalid response
+positive
+positive
+positive
+positive
+Invalid response
+Invalid response
+Invalid response
+positive
+neutral
+neutral
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+neutral
+positive
+positive
+positive
+Invalid response
+positive
+positive
+============================================================
+
