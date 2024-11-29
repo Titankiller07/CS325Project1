@@ -21,7 +21,8 @@ The Ollama model responds with one of these labels, which is then written to an 
       [View](https://www.bestbuy.com/site/reviews/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler-black/6439000?variant=A)
   5.  **AMD - Ryzen 9 7950X3D 16-Core - 32-Thread 4.2 GHz (5.7 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black**
       [View](https://www.bestbuy.com/site/reviews/amd-ryzen-9-7950x3d-16-core-32-thread-4-2-ghz-5-7-ghz-max-boost-socket-am5-unlocked-desktop-processor-black/6537138?variant=A)
-
+## Graph
+  ![alt text]("C:\Users\cmthi\CS325.png")
 ## Prerequisite
   Make sure you have Python installed I myself am using at this time Python 3.12.4 and have a basic understanding of python as well.
   Ollama is needed to make this work and phi 3 depending on what device you are using you may change how to intall which can be found [here](https://ollama.com/download)
