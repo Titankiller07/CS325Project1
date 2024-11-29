@@ -2,26 +2,14 @@ Sentiment Analysis Results for C:\Users\cmthi\OneDrive\Documents\Java\CS325Proje
 ============================================================
 positive
 positive
-Invalid response
+neutral
 positive
 positive
 positive
 positive
 positive
-Invalid response
-Invalid response
-positive
-positive
-positive
-Invalid response
-positive
-positive
-positive
-Invalid response
-positive
-positive
-positive
-Invalid response
+neutral
+neutral
 positive
 positive
 positive
@@ -29,14 +17,26 @@ positive
 positive
 positive
 positive
-Invalid response
-Invalid response
-positive
-Invalid response
+neutral
 positive
 positive
+neutral
 positive
 positive
+neutral
+positive
+positive
+neutral
+neutral
+neutral
+neutral
+positive
+positive
+neutral
+positive
+positive
+positive
+neutral
 positive
 positive
 negative
