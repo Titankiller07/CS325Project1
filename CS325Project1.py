@@ -1,7 +1,7 @@
 import ollama
 
-file_path = "C:\\Users\\sharkfin\\Downloads\\CS325\\Project1.txt"
-file_path2 = "C:\\Users\\sharkfin\\Downloads\\CS325\\Project1Response.txt"
+file_path = "C:\\Users\\cmthi\\OneDrive\\Documents\\Java\\Project1.txt"
+file_path2 = "C:\\Users\\cmthi\\OneDrive\\Documents\\Java\\Project1Response.txt"
 with open(file_path, 'r') as file:
    lines = file.read()
 
